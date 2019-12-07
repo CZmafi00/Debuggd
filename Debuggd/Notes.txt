@@ -1,0 +1,8 @@
+﻿Property names in configuration classes:
+
+Property names in .json configuration files should be named exactly as Property values of Configuration classes. 
+Decorating properties with attributes [DataMember] and [JsonProperty] are not valid. (see answer from poke)
+
+There is possible workaround, but it is not recommended to use because of good coding practices and code maintenance. (answer from 'Veikedo')
+
+https://stackoverflow.com/questions/45856136/customize-json-property-name-for-options-in-asp-net-core
