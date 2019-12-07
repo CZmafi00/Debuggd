@@ -1,0 +1,18 @@
+﻿{
+  "RegularProperty": "value of regular prop",
+  "RegularSimpleClass": {
+    "RegularProperty": "value of regular prop inside regular class"
+  },
+  "ArrayOfStructs": [ 1, 2, 3, 4, 5 ],
+  "ArrayOfClasses": [
+    {
+      "RegularProperty": "value1"
+    },
+    {
+      "RegularProperty": "value2"
+    },
+    {
+      "RegularProperty": "value3"
+    }
+  ]
+}
