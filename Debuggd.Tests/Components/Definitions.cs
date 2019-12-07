@@ -7,8 +7,8 @@ namespace Debuggd.Tests
     class Definitions
     {
         #region Test config files
-        public const string EMPTY_CONFIG_JSON = "emptyConfig.json";
-        public const string TEST_CLASS_CONFIG_JSON = "testClassConfig.json";
+        public const string EMPTY_CONFIG_JSON = "config files/emptyConfig.json";
+        public const string TEST_CLASS_CONFIG_JSON = "config files/testClassConfig.json";
         public const string TEST_CLASS_CONFIG_JSON_INCORRECT_NAME = "testConfigdsa.json"; 
         #endregion
 
